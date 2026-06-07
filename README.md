@@ -4,17 +4,17 @@ An end-to-end sales analysis of a California-based e-commerce fashion retailer, 
 
 ## 📁 File
 
-FileDescriptionE-Commerce_Sales_Analysis.xlsxMain Excel workbook containing raw data, pivot tables, KPI dashboard, and analysis sheets
+FileDescription E-Commerce_Sales_Analysis.xlsx Main Excel workbook containing raw data, pivot tables, KPI dashboard, and analysis sheets
 
 ## 📊 Dataset Overview
 
-AttributeValueTotal Orders2,400Total Items Sold11,997Total Revenue~$649,020Average Customer Rating4.0 / 5Average Delivery Time2.3 daysGeographyCalifornia (58+ counties)Time Period13 weeks (weekly breakdown)
+Attribute Value Total Orders 2,400, Total Items Sold 11,997, Total Revenue ~$649,020, Average Customer Rating4.0 / 5 , Average Delivery Time 2.3 days, Geography California (58+ counties)Time Period 13 weeks (weekly breakdown)
 Data Fields (per transaction)
 TX ID · Product · Quantity · Unit Price · Amount · Order Date · Ship Date · Customer Gender · Order Mode · Rating · State · County · Days to Deliver · Week Number
 
 ## 🗂️ Workbook Structure
 
-SheetContentsDataRaw transaction records (2,400 rows, one row per order)Sheet2KPI summary aggregates and 13-week trend pivotQuestions & KPIsBusiness questions driving the analysisDashboardVisual dashboard (charts and key metrics)Sheet4Revenue breakdown by order channel × gender (matrix)Sheet5Order quantity distribution + county-level geographic analysisSheet6Product performance by quantity and gender splitSheet7Shipping duration distribution + customer satisfaction ratings
+Sheet Contents Data Raw transaction records (2,400 rows, one row per order)Sheet2 KPI summary aggregates and 13-week trend pivot Questions & KPIs Business questions driving the analysis Dashboard Visual dashboard (charts and key metrics)Sheet4 Revenue breakdown by order channel × gender (matrix)Sheet5 Order quantity distribution + county-level geographic analysis Sheet6 Product performance by quantity and gender split Sheet7 Shipping duration distribution + customer satisfaction ratings
 
 ## 🔍 Key Business Questions Answered
 
