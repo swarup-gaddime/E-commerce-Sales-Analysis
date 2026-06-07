@@ -19,21 +19,33 @@ Sheet Contents Data Raw transaction records (2,400 rows, one row per order)Sheet
 ## 🔍 Key Business Questions Answered
 
 What is the sales trend over the last 13 weeks?
+
 How do customers prefer to place orders? (App, Website, Instagram, Target.com, Partner App)
+
 How many items do customers typically buy per order?
+
 Which products are most popular?
+
 What is the overall gender split of customers?
+
 Where do customers live? (county-level heatmap data)
+
 How long does order fulfillment take?
+
 How satisfied are customers with their experience?
 
 ## Customer Ratings Distribution
 
-RatingOrders
+Rating Orders
+
 ⭐⭐⭐⭐⭐ (5)721
+
 ⭐⭐⭐⭐ (4)1,036
+
 ⭐⭐⭐ (3)495
+
 ⭐⭐ (2)127
+
 ⭐ (1)21
 
 ## 🛠️ Tools Used
