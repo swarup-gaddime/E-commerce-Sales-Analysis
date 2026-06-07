@@ -31,11 +31,11 @@ How satisfied are customers with their experience?
 ## 📈 Highlights from the Analysis
 
 Top Products by Quantity Sold
-ProductUnits SoldT-Shirts1,645Jeans1,546Sneakers1,186Tank Tops912Bikinis807
+Product Units Sold T-Shirts 1,645, Jeans 1,546, Sneakers1,186, Tank Tops 912, Bikinis 807
 Order Channels (by Revenue Share)
-ChannelShareWebsite~23.5%App~35.3%Target.com~18.3%Partner App~11.6%Instagram~11.3%
+Channel Share Website ~23.5%, App~35.3%, Target.com~18.3, %Partner App~11.6%, Instagram~11.3%
 Customer Gender Split
-GenderUnitsFemale6,272Male4,672Other317Unknown736
+Gender Units Female6,272, Male 4,672, Other 317, Unknown 736
 Shipping Performance
 
 73% of orders delivered in 1–2 days
